@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "cprok_portfolio",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": "3308"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "cprok_portfolio",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": "3308"
+  }
+}
