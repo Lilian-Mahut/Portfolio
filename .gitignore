@@ -104,6 +104,9 @@ dist/
 # DynamoDB Local files
 .dynamodb/
 
+# Visual Studio Code files
+.code-workspace
+
 # Temporary folders
 tmp/
 temp/
